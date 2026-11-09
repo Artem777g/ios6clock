@@ -1,0 +1,16 @@
+# build output, releases and local reference material
+dist/
+ref/
+
+# generated previews from tools/
+res/preview*.png
+res/icon_preview.png
+
+# python
+__pycache__/
+*.pyc
+
+# visual studio / msbuild junk
+.vs/
+*.user
+*.suo
